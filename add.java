@@ -31,5 +31,7 @@ public class AddTwoNumbers {
 
         scanner.close();
         */
+        // Modified code
+        system.out.println("Adiition is completed")
     }
 }
