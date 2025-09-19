@@ -6,6 +6,10 @@ public class IntegerDivisionExample {
         // Performing integer division
         int result = dividend / divisor; 
         System.out.println("Result of integer division (10 / 3): " + result); // Output: 3
+ main
         System.out.println(result);
+
+         System.out.println("Result of integer division (10 / 3): " +result);
+Osman3_Branch
     }
 }
